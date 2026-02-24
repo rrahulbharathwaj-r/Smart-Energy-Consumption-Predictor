@@ -1,0 +1,7 @@
+Standard libraries to be used in case to deploy the model as an app,
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
